@@ -6,6 +6,7 @@ require "json"
 
 require_relative "pornhub_api/version"
 
+# PornhubApi client namespace
 module PornhubApi
   class Error < StandardError; end
 
@@ -21,7 +22,8 @@ module PornhubApi
     # @option options [String] :ordering Possible values are featured, newest, mostviewed and rating
     # @option options [Array] :phrase Used as pornstars filter.
     # @option options [Array] :tags The email's body
-    # @option options [String] :period Only works with ordering parameter. Possible values are weekly, monthly, and alltime
+    # @option options [String] :period Only works with ordering parameter.
+    #                                  Possible values are weekly, monthly, and alltime
     # @return [Object] response
     def search(**options)
       webmasters_request("search", options)
@@ -51,9 +53,11 @@ module PornhubApi
     # @param [Object] id Video id
     # @param [Hash] options
     # @return [Object] response
+    # rubocop:disable Naming/PredicateName
     def is_video_active(id:, **options)
       webmasters_request("is_video_active", { id: id, **options })
     end
+    # rubocop:enable Naming/PredicateName
 
     # @return [Object] response
     def categories

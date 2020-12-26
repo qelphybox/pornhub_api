@@ -40,12 +40,7 @@ RSpec.describe PornhubApi, vcr: { allow_unused_http_interactions: false } do
   end
   describe ".tags" do
     subject(:stars) { described_class.tags(args) }
-    let(:args) { { list: 'y' } }
+    let(:args) { { list: "y" } }
     it { is_expected.to match_schema("tags") }
   end
-
-  #
-  # def tags(list:)
-  #   webmasters_request("tags", { list: list })
-  # end
 end

@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://rt.pornhub.com/webmasters/stars
+    uri: https://www.pornhub.com/webmasters/stars
     body:
       encoding: US-ASCII
       string: ''
@@ -14,7 +14,7 @@ http_interactions:
       User-Agent:
       - Ruby
       Host:
-      - rt.pornhub.com
+      - www.pornhub.com
   response:
     status:
       code: 200
@@ -23,23 +23,23 @@ http_interactions:
       Server:
       - openresty
       Date:
-      - Sat, 26 Dec 2020 00:32:54 GMT
+      - Sat, 26 Dec 2020 13:00:40 GMT
       Content-Type:
       - application/json; charset=utf-8
       Transfer-Encoding:
       - chunked
       Set-Cookie:
-      - bs=c45xxvotks7pn3ycwqs82sye4wfoqcmq; expires=Tue, 24-Dec-2030 00:32:54 GMT;
+      - bs=vnzsih3ix3jhiiqffq3y4rzqh51gn8ph; expires=Tue, 24-Dec-2030 13:00:40 GMT;
         Max-Age=315360000; path=/; domain=pornhub.com; secure; SameSite=None
-      - fg_9d12f2b2865de2f8c67706feaa332230=58296.100000; expires=Mon, 25-Jan-2021
-        00:32:54 GMT; Max-Age=2592000; path=/; domain=pornhub.com
-      - platform=pc; expires=Sat, 02-Jan-2021 00:32:54 GMT; Max-Age=604800; path=/;
+      - fg_9d12f2b2865de2f8c67706feaa332230=37114.100000; expires=Mon, 25-Jan-2021
+        13:00:40 GMT; Max-Age=2592000; path=/; domain=pornhub.com
+      - platform=pc; expires=Sat, 02-Jan-2021 13:00:40 GMT; Max-Age=604800; path=/;
         domain=pornhub.com
-      - platform_cookie_reset=pc; expires=Mon, 25-Jan-2021 00:32:54 GMT; Max-Age=2592000;
+      - platform_cookie_reset=pc; expires=Mon, 25-Jan-2021 13:00:40 GMT; Max-Age=2592000;
         path=/; domain=pornhub.com
-      - ss=343566212313521989; expires=Sun, 26-Dec-2021 00:32:54 GMT; Max-Age=31536000;
+      - ss=849653665645531051; expires=Sun, 26-Dec-2021 13:00:40 GMT; Max-Age=31536000;
         path=/; domain=pornhub.com
-      - ua=9916d1fc59fe22cc046a2fe1615bc764; expires=Sun, 27-Dec-2020 00:32:54 GMT;
+      - ua=9916d1fc59fe22cc046a2fe1615bc764; expires=Sun, 27-Dec-2020 13:00:40 GMT;
         Max-Age=86400; path=/; domain=pornhub.com
       X-Frame-Options:
       - SAMEORIGIN
@@ -50,7 +50,7 @@ http_interactions:
       Rating:
       - RTA-5042-1996-1400-1577-RTA
       X-Request-Id:
-      - 5FE684B6-42FE722901BB10F6-A2F4DFC
+      - 5FE733F8-42FE722901BB10F6-C295933
     body:
       encoding: UTF-8
       string: '{"stars":[{"star":{"star_name":" Vixxen Goddess"}},{"star":{"star_name":"033120
@@ -8668,5 +8668,5 @@ http_interactions:
         Cernotova"}},{"star":{"star_name":"Zuzana Drabinova"}},{"star":{"star_name":"Zuzana
         P."}},{"star":{"star_name":"Zuzana Z"}},{"star":{"star_name":"Zuzana Zeleznovova"}},{"star":{"star_name":"Zuzinka"}},{"star":{"star_name":"Zuzu
         Sweet"}},{"star":{"star_name":"zyna baby"}}]}'
-  recorded_at: Sat, 26 Dec 2020 00:32:54 GMT
+  recorded_at: Sat, 26 Dec 2020 13:00:41 GMT
 recorded_with: VCR 6.0.0

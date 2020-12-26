@@ -1,5 +1,7 @@
 # PornhubApi
 
+[![Gem Version](https://badge.fury.io/rb/pornhub_api.svg)](https://badge.fury.io/rb/pornhub_api)
+
 Simple Pornhub API client
 
 ## Installation
@@ -34,3 +36,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/qelphy
 
 ## Roadmap
     - [] Binary executable file
+    - News RSS feed requests

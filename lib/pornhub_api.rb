@@ -22,7 +22,7 @@ module PornhubApi
     # @option options [String] :ordering Possible values are featured, newest, mostviewed and rating
     # @option options [Array] :phrase Used as pornstars filter.
     # @option options [Array] :tags The email's body
-    # @option options [String] :period Only works with ordering parameter. Possible values are weekly, monthly, and alltime
+    # @option options [String] :period Works ith ordering Possible values are weekly, monthly, and alltime
     # @return [Object] response
     #
     # ==== Example Request video search
@@ -35,15 +35,15 @@ module PornhubApi
     #             "ratings": 22,
     #             "title": "Young babe Anna fed cum after anal banging and blowjob",
     #             "url": "https://www.pornhub.com/view_video.php?viewkey=ph5e7cddd1b610e",
-    #             "default_thumb": "https://di.phncdn.com/videos/202003/26/296992831/original/(m=eaf8Ggaaaa)(mh=_Tyqk2i6XofP-YRe)12.jpg",
-    #             "thumb": "https://di.phncdn.com/videos/202003/26/296992831/original/(m=eaf8Ggaaaa)(mh=_Tyqk2i6XofP-YRe)13.jpg",
+    #             "default_thumb": "https://di.phncdn.com/videos/202003/26/296992831/original/(m=eaf8Ggaaaa)",
+    #             "thumb": "https://di.phncdn.com/videos/202003/26/296992831/original/(m=eaf8Ggaaaa)13.jpg",
     #             "publish_date": "2020-12-26 12:10:17",
     #             "thumbs": [
     #                 {
     #                     "size": "320x240",
     #                     "width": "320",
     #                     "height": "240",
-    #                     "src": "https://di.phncdn.com/videos/202003/26/296992831/original/(m=eaf8Ggaaaa)(mh=_Tyqk2i6XofP-YRe)1.jpg"
+    #                     "src": "https://di.phncdn.com/videos/202003/26/296992831/original/(mh=_Tyqk2i6XofP-YRe)1.jpg"
     #                 }
     #             ],
     #             "tags": [
@@ -89,7 +89,7 @@ module PornhubApi
     #         {
     #             "star": {
     #                 "star_name": " Melisa Wide",
-    #                 "star_thumb": "https://di.phncdn.com/pics/pornstars/default/(m=lciuhScOb_c)(mh=MIYb3JZmqOmG07hE)female.jpg",
+    #                 "star_thumb": "https://di.phncdn.com/pics/pornstars/default/(m=lciuhScOb_c)female.jpg",
     #                 "star_url": "https://www.pornhub.com/pornstar/videos_overview?pornstar=melisa-wide",
     #                 "gender": "female",
     #                 "videos_count_all": "0"

@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Pornhub API client"
   spec.description   = "Simple Pornhub API client"
-  # spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/qelphybox/pornhub_api"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"

@@ -1,0 +1,62 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "active": {
+        "video_id": "ph5fbf2d80025f9",
+        "is_active": "1"
+      }
+    }
+  ],
+  "required": [
+    "active"
+  ],
+  "properties": {
+    "active": {
+      "id": "#/properties/active",
+      "type": "object",
+      "title": "The active schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": {},
+      "examples": [
+        {
+          "video_id": "ph5fbf2d80025f9",
+          "is_active": "1"
+        }
+      ],
+      "required": [
+        "video_id",
+        "is_active"
+      ],
+      "properties": {
+        "video_id": {
+          "id": "#/properties/active/properties/video_id",
+          "type": "string",
+          "title": "The video_id schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "ph5fbf2d80025f9"
+          ]
+        },
+        "is_active": {
+          "id": "#/properties/active/properties/is_active",
+          "type": "string",
+          "title": "The is_active schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "1"
+          ]
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

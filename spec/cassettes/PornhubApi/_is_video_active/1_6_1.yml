@@ -1,0 +1,58 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://rt.pornhub.com/webmasters/is_video_active?id=ph5fbf2d80025f9
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+      Host:
+      - rt.pornhub.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - openresty
+      Date:
+      - Sat, 26 Dec 2020 01:04:36 GMT
+      Content-Type:
+      - application/json; charset=utf-8
+      Transfer-Encoding:
+      - chunked
+      Set-Cookie:
+      - bs=l0p03hcpv5fhb6y2syyezdo9j5fs97h0; expires=Tue, 24-Dec-2030 01:04:36 GMT;
+        Max-Age=315360000; path=/; domain=pornhub.com; secure; SameSite=None
+      - fg_9d12f2b2865de2f8c67706feaa332230=42184.100000; expires=Mon, 25-Jan-2021
+        01:04:36 GMT; Max-Age=2592000; path=/; domain=pornhub.com
+      - platform=pc; expires=Sat, 02-Jan-2021 01:04:36 GMT; Max-Age=604800; path=/;
+        domain=pornhub.com
+      - platform_cookie_reset=pc; expires=Mon, 25-Jan-2021 01:04:36 GMT; Max-Age=2592000;
+        path=/; domain=pornhub.com
+      - ss=428972728417944212; expires=Sun, 26-Dec-2021 01:04:36 GMT; Max-Age=31536000;
+        path=/; domain=pornhub.com
+      - ua=9916d1fc59fe22cc046a2fe1615bc764; expires=Sun, 27-Dec-2020 01:04:36 GMT;
+        Max-Age=86400; path=/; domain=pornhub.com
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Mg-S:
+      - '0'
+      Vary:
+      - User-Agent
+      Rating:
+      - RTA-5042-1996-1400-1577-RTA
+      X-Request-Id:
+      - 5FE68C24-42FE722901BB10F6-A4D8537
+    body:
+      encoding: UTF-8
+      string: '{"active":{"video_id":"ph5fbf2d80025f9","is_active":"1"}}'
+  recorded_at: Sat, 26 Dec 2020 01:04:36 GMT
+recorded_with: VCR 6.0.0

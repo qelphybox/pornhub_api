@@ -1,0 +1,725 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "categories": [
+        {
+          "id": "622",
+          "category": "180-1"
+        },
+        {
+          "id": "632",
+          "category": "2d"
+        },
+        {
+          "id": "612",
+          "category": "360-1"
+        },
+        {
+          "id": "642",
+          "category": "3d"
+        },
+        {
+          "id": "105",
+          "category": "60fps-1"
+        },
+        {
+          "id": "732",
+          "category": "closed-captions"
+        },
+        {
+          "id": "742",
+          "category": "closed-captions-gay"
+        },
+        {
+          "id": "761",
+          "category": "ffm"
+        },
+        {
+          "id": "771",
+          "category": "fmm"
+        },
+        {
+          "id": "107",
+          "category": "hd-porn-gay"
+        },
+        {
+          "id": "38",
+          "category": "hd-porn"
+        },
+        {
+          "id": "1",
+          "category": "asian"
+        },
+        {
+          "id": "48",
+          "category": "asian-gay"
+        },
+        {
+          "id": "35",
+          "category": "anal"
+        },
+        {
+          "id": "98",
+          "category": "arab"
+        },
+        {
+          "id": "10",
+          "category": "bondage"
+        },
+        {
+          "id": "40",
+          "category": "bareback-gay"
+        },
+        {
+          "id": "712",
+          "category": "uncensored"
+        },
+        {
+          "id": "722",
+          "category": "uncensored-1"
+        },
+        {
+          "id": "221",
+          "category": "sfw"
+        },
+        {
+          "id": "76",
+          "category": "bisexual-male"
+        },
+        {
+          "id": "9",
+          "category": "blonde"
+        },
+        {
+          "id": "8",
+          "category": "big-tits"
+        },
+        {
+          "id": "58",
+          "category": "big-dick-gay"
+        },
+        {
+          "id": "7",
+          "category": "big-dick"
+        },
+        {
+          "id": "102",
+          "category": "brazilian"
+        },
+        {
+          "id": "96",
+          "category": "british"
+        },
+        {
+          "id": "69",
+          "category": "squirt"
+        },
+        {
+          "id": "11",
+          "category": "brunette"
+        },
+        {
+          "id": "14",
+          "category": "bukkake"
+        },
+        {
+          "id": "88",
+          "category": "school"
+        },
+        {
+          "id": "61",
+          "category": "webcam"
+        },
+        {
+          "id": "342",
+          "category": "webcam-gay"
+        },
+        {
+          "id": "53",
+          "category": "party"
+        },
+        {
+          "id": "231",
+          "category": "described-video"
+        },
+        {
+          "id": "106",
+          "category": "vr-gay"
+        },
+        {
+          "id": "104",
+          "category": "vr"
+        },
+        {
+          "id": "402",
+          "category": "military-gay"
+        },
+        {
+          "id": "63",
+          "category": "gay"
+        },
+        {
+          "id": "82",
+          "category": "straight-guys-gay"
+        },
+        {
+          "id": "702",
+          "category": "pov-1"
+        },
+        {
+          "id": "372",
+          "category": "pov-gay"
+        },
+        {
+          "id": "41",
+          "category": "pov"
+        },
+        {
+          "id": "67",
+          "category": "rough-sex"
+        },
+        {
+          "id": "312",
+          "category": "rough-sex-gay"
+        },
+        {
+          "id": "62",
+          "category": "group-gay"
+        },
+        {
+          "id": "80",
+          "category": "gangbang"
+        },
+        {
+          "id": "72",
+          "category": "double-penetration"
+        },
+        {
+          "id": "492",
+          "category": "solo-female"
+        },
+        {
+          "id": "20",
+          "category": "handjob"
+        },
+        {
+          "id": "262",
+          "category": "handjob-gay"
+        },
+        {
+          "id": "46",
+          "category": "euro-gay"
+        },
+        {
+          "id": "55",
+          "category": "euro"
+        },
+        {
+          "id": "73",
+          "category": "popular-with-women"
+        },
+        {
+          "id": "502",
+          "category": "female-orgasm"
+        },
+        {
+          "id": "70",
+          "category": "hunks-gay"
+        },
+        {
+          "id": "21",
+          "category": "hardcore"
+        },
+        {
+          "id": "141",
+          "category": "behind-the-scenes"
+        },
+        {
+          "id": "12",
+          "category": "celebrity"
+        },
+        {
+          "id": "211",
+          "category": "pissing"
+        },
+        {
+          "id": "28",
+          "category": "mature"
+        },
+        {
+          "id": "332",
+          "category": "mature-gay"
+        },
+        {
+          "id": "23",
+          "category": "toys"
+        },
+        {
+          "id": "101",
+          "category": "indian"
+        },
+        {
+          "id": "108",
+          "category": "interactive"
+        },
+        {
+          "id": "97",
+          "category": "italian"
+        },
+        {
+          "id": "90",
+          "category": "casting"
+        },
+        {
+          "id": "362",
+          "category": "casting-gay"
+        },
+        {
+          "id": "322",
+          "category": "jock-gay"
+        },
+        {
+          "id": "79",
+          "category": "college"
+        },
+        {
+          "id": "68",
+          "category": "college-gay"
+        },
+        {
+          "id": "352",
+          "category": "cumshot-gay"
+        },
+        {
+          "id": "16",
+          "category": "cumshot"
+        },
+        {
+          "id": "103",
+          "category": "korean"
+        },
+        {
+          "id": "241",
+          "category": "cosplay"
+        },
+        {
+          "id": "5",
+          "category": "babe"
+        },
+        {
+          "id": "71",
+          "category": "creampie-gay"
+        },
+        {
+          "id": "15",
+          "category": "creampie"
+        },
+        {
+          "id": "131",
+          "category": "pussy-licking"
+        },
+        {
+          "id": "91",
+          "category": "smoking"
+        },
+        {
+          "id": "26",
+          "category": "latina"
+        },
+        {
+          "id": "50",
+          "category": "latino-gay"
+        },
+        {
+          "id": "27",
+          "category": "lesbian"
+        },
+        {
+          "id": "252",
+          "category": "amateur-gay"
+        },
+        {
+          "id": "3",
+          "category": "amateur"
+        },
+        {
+          "id": "59",
+          "category": "small-tits"
+        },
+        {
+          "id": "29",
+          "category": "milf"
+        },
+        {
+          "id": "45",
+          "category": "massage-gay"
+        },
+        {
+          "id": "78",
+          "category": "massage"
+        },
+        {
+          "id": "22",
+          "category": "masturbation"
+        },
+        {
+          "id": "66",
+          "category": "bear-gay"
+        },
+        {
+          "id": "25",
+          "category": "interracial"
+        },
+        {
+          "id": "64",
+          "category": "interracial-gay"
+        },
+        {
+          "id": "56",
+          "category": "blowjob-gay"
+        },
+        {
+          "id": "13",
+          "category": "blowjob"
+        },
+        {
+          "id": "49",
+          "category": "twink-gay"
+        },
+        {
+          "id": "121",
+          "category": "music"
+        },
+        {
+          "id": "17",
+          "category": "ebony"
+        },
+        {
+          "id": "422",
+          "category": "cartoon-gay"
+        },
+        {
+          "id": "86",
+          "category": "cartoon"
+        },
+        {
+          "id": "51",
+          "category": "muscle-gay"
+        },
+        {
+          "id": "512",
+          "category": "muscular-men"
+        },
+        {
+          "id": "84",
+          "category": "public-gay"
+        },
+        {
+          "id": "24",
+          "category": "public"
+        },
+        {
+          "id": "272",
+          "category": "uncut-gay"
+        },
+        {
+          "id": "44",
+          "category": "black-gay"
+        },
+        {
+          "id": "95",
+          "category": "german"
+        },
+        {
+          "id": "93",
+          "category": "feet"
+        },
+        {
+          "id": "412",
+          "category": "feet-gay"
+        },
+        {
+          "id": "89",
+          "category": "babysitter"
+        },
+        {
+          "id": "47",
+          "category": "daddy-gay"
+        },
+        {
+          "id": "54",
+          "category": "solo-male-gay"
+        },
+        {
+          "id": "92",
+          "category": "solo-male"
+        },
+        {
+          "id": "201",
+          "category": "parody"
+        },
+        {
+          "id": "181",
+          "category": "old-young"
+        },
+        {
+          "id": "682",
+          "category": "voyeur"
+        },
+        {
+          "id": "37",
+          "category": "teen-18-1"
+        },
+        {
+          "id": "532",
+          "category": "scissoring"
+        },
+        {
+          "id": "4",
+          "category": "big-ass"
+        },
+        {
+          "id": "30",
+          "category": "pornstar"
+        },
+        {
+          "id": "60",
+          "category": "pornstar-gay"
+        },
+        {
+          "id": "32",
+          "category": "funny"
+        },
+        {
+          "id": "731",
+          "category": "verified-amateurs-gay"
+        },
+        {
+          "id": "138",
+          "category": "verified-amateurs"
+        },
+        {
+          "id": "139",
+          "category": "verified-models"
+        },
+        {
+          "id": "482",
+          "category": "verified-couples"
+        },
+        {
+          "id": "392",
+          "category": "chubby-gay"
+        },
+        {
+          "id": "382",
+          "category": "compilation-gay"
+        },
+        {
+          "id": "57",
+          "category": "compilation"
+        },
+        {
+          "id": "31",
+          "category": "reality"
+        },
+        {
+          "id": "85",
+          "category": "reality-gay"
+        },
+        {
+          "id": "77",
+          "category": "vintage-gay"
+        },
+        {
+          "id": "43",
+          "category": "vintage"
+        },
+        {
+          "id": "242",
+          "category": "cuckold"
+        },
+        {
+          "id": "81",
+          "category": "role-play"
+        },
+        {
+          "id": "522",
+          "category": "romantic"
+        },
+        {
+          "id": "99",
+          "category": "russian"
+        },
+        {
+          "id": "42",
+          "category": "red-head"
+        },
+        {
+          "id": "65",
+          "category": "threesome"
+        },
+        {
+          "id": "2",
+          "category": "orgy"
+        },
+        {
+          "id": "444",
+          "category": "step-fantasy"
+        },
+        {
+          "id": "542",
+          "category": "strap-on"
+        },
+        {
+          "id": "33",
+          "category": "striptease"
+        },
+        {
+          "id": "562",
+          "category": "tattooed-women"
+        },
+        {
+          "id": "552",
+          "category": "tattooed-men-gay"
+        },
+        {
+          "id": "6",
+          "category": "bbw"
+        },
+        {
+          "id": "572",
+          "category": "trans-with-girl"
+        },
+        {
+          "id": "582",
+          "category": "trans-with-guy"
+        },
+        {
+          "id": "83",
+          "category": "transgender"
+        },
+        {
+          "id": "602",
+          "category": "trans-male"
+        },
+        {
+          "id": "592",
+          "category": "fingering"
+        },
+        {
+          "id": "18",
+          "category": "fetish"
+        },
+        {
+          "id": "52",
+          "category": "fetish-gay"
+        },
+        {
+          "id": "19",
+          "category": "fisting"
+        },
+        {
+          "id": "94",
+          "category": "french"
+        },
+        {
+          "id": "36",
+          "category": "hentai"
+        },
+        {
+          "id": "100",
+          "category": "czech"
+        },
+        {
+          "id": "115",
+          "category": "exclusive"
+        },
+        {
+          "id": "39",
+          "category": "japanese-gay"
+        },
+        {
+          "id": "111",
+          "category": "japanese"
+        }
+      ]
+    }
+  ],
+  "required": [
+    "categories"
+  ],
+  "properties": {
+    "categories": {
+      "id": "#/properties/categories",
+      "type": "array",
+      "title": "The categories schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "id": "622",
+            "category": "180-1"
+          },
+          {
+            "id": "632",
+            "category": "2d"
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "id": "#/properties/categories/items",
+        "anyOf": [
+          {
+            "id": "#/properties/categories/items/anyOf/0",
+            "type": "object",
+            "title": "The first anyOf schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": {},
+            "examples": [
+              {
+                "id": "622",
+                "category": "180-1"
+              }
+            ],
+            "required": [
+              "id",
+              "category"
+            ],
+            "properties": {
+              "id": {
+                "id": "#/properties/categories/items/anyOf/0/properties/id",
+                "type": "string",
+                "title": "The id schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "622"
+                ]
+              },
+              "category": {
+                "id": "#/properties/categories/items/anyOf/0/properties/category",
+                "type": "string",
+                "title": "The category schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "180-1"
+                ]
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

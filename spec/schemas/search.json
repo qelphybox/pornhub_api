@@ -1,0 +1,1146 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "videos": [
+        {
+          "duration": "1:49",
+          "views": 2451,
+          "video_id": "ph5d63ff6cbbb0d",
+          "rating": "94.7368",
+          "ratings": 19,
+          "title": "Guess who won the sensual handjob contest at amazing beach view",
+          "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5d63ff6cbbb0d",
+          "default_thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg",
+          "thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg",
+          "publish_date": "2020-12-25 23:52:57",
+          "thumbs": [
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)2.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)3.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)4.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)5.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)6.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)7.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)8.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)10.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)11.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)13.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)14.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)15.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)16.jpg"
+            }
+          ],
+          "tags": [
+            {
+              "tag_name": "masturbate"
+            },
+            {
+              "tag_name": "big cock"
+            },
+            {
+              "tag_name": "teenager"
+            },
+            {
+              "tag_name": "young"
+            },
+            {
+              "tag_name": "public"
+            },
+            {
+              "tag_name": "outside"
+            },
+            {
+              "tag_name": "sea"
+            },
+            {
+              "tag_name": "beach"
+            },
+            {
+              "tag_name": "mastrubation contest"
+            },
+            {
+              "tag_name": "handjob"
+            },
+            {
+              "tag_name": "public handjob"
+            },
+            {
+              "tag_name": "orgasm"
+            },
+            {
+              "tag_name": "cum"
+            },
+            {
+              "tag_name": "teen"
+            },
+            {
+              "tag_name": "couple"
+            }
+          ],
+          "pornstars": [],
+          "categories": [
+            {
+              "category": "amateur"
+            },
+            {
+              "category": "big-dick"
+            },
+            {
+              "category": "blonde"
+            },
+            {
+              "category": "handjob"
+            },
+            {
+              "category": "masturbation"
+            },
+            {
+              "category": "public"
+            },
+            {
+              "category": "teen-18-1"
+            },
+            {
+              "category": "exclusive"
+            },
+            {
+              "category": "verified-amateurs"
+            },
+            {
+              "category": "female-orgasm"
+            }
+          ],
+          "segment": "straight"
+        }
+      ]
+    }
+  ],
+  "required": [
+    "videos"
+  ],
+  "properties": {
+    "videos": {
+      "$id": "#/properties/videos",
+      "type": "array",
+      "title": "The videos schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": [],
+      "examples": [
+        [
+          {
+            "duration": "1:49",
+            "views": 2451,
+            "video_id": "ph5d63ff6cbbb0d",
+            "rating": "94.7368",
+            "ratings": 19,
+            "title": "Guess who won the sensual handjob contest at amazing beach view",
+            "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5d63ff6cbbb0d",
+            "default_thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg",
+            "thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg",
+            "publish_date": "2020-12-25 23:52:57",
+            "thumbs": [
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)2.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)3.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)4.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)5.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)6.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)7.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)8.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)10.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)11.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)13.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)14.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)15.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)16.jpg"
+              }
+            ],
+            "tags": [
+              {
+                "tag_name": "masturbate"
+              },
+              {
+                "tag_name": "big cock"
+              },
+              {
+                "tag_name": "teenager"
+              },
+              {
+                "tag_name": "young"
+              },
+              {
+                "tag_name": "public"
+              },
+              {
+                "tag_name": "outside"
+              },
+              {
+                "tag_name": "sea"
+              },
+              {
+                "tag_name": "beach"
+              },
+              {
+                "tag_name": "mastrubation contest"
+              },
+              {
+                "tag_name": "handjob"
+              },
+              {
+                "tag_name": "public handjob"
+              },
+              {
+                "tag_name": "orgasm"
+              },
+              {
+                "tag_name": "cum"
+              },
+              {
+                "tag_name": "teen"
+              },
+              {
+                "tag_name": "couple"
+              }
+            ],
+            "pornstars": [],
+            "categories": [
+              {
+                "category": "amateur"
+              },
+              {
+                "category": "big-dick"
+              },
+              {
+                "category": "blonde"
+              },
+              {
+                "category": "handjob"
+              },
+              {
+                "category": "masturbation"
+              },
+              {
+                "category": "public"
+              },
+              {
+                "category": "teen-18-1"
+              },
+              {
+                "category": "exclusive"
+              },
+              {
+                "category": "verified-amateurs"
+              },
+              {
+                "category": "female-orgasm"
+              }
+            ],
+            "segment": "straight"
+          },
+          {
+            "duration": "4:07",
+            "views": 2047,
+            "video_id": "ph5d739117243a9",
+            "rating": "95.4545",
+            "ratings": 22,
+            "title": "Barely legal teen oil her fit body and play with young virgin pussy outdoor",
+            "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5d739117243a9",
+            "default_thumb": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)12.jpg",
+            "thumb": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)9.jpg",
+            "publish_date": "2020-12-25 23:52:35",
+            "thumbs": [
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)1.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)2.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)3.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)4.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)5.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)6.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)7.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)8.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)9.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)10.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)11.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)12.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)13.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)14.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)15.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ei.phncdn.com/videos/201909/07/246797581/original/(m=eaf8Ggaaaa)(mh=0Wow5ZJczK0O9Qqx)16.jpg"
+              }
+            ],
+            "tags": [
+              {
+                "tag_name": "petite"
+              },
+              {
+                "tag_name": "butt"
+              },
+              {
+                "tag_name": "teenager"
+              },
+              {
+                "tag_name": "young"
+              },
+              {
+                "tag_name": "public"
+              },
+              {
+                "tag_name": "outside"
+              },
+              {
+                "tag_name": "public masturbation"
+              },
+              {
+                "tag_name": "outdoor masturbation"
+              },
+              {
+                "tag_name": "sexy striptease"
+              },
+              {
+                "tag_name": "oiled ass"
+              },
+              {
+                "tag_name": "teen"
+              },
+              {
+                "tag_name": "18"
+              },
+              {
+                "tag_name": "oiled teen"
+              },
+              {
+                "tag_name": "amateur teen"
+              }
+            ],
+            "pornstars": [],
+            "categories": [
+              {
+                "category": "amateur"
+              },
+              {
+                "category": "big-ass"
+              },
+              {
+                "category": "blonde"
+              },
+              {
+                "category": "public"
+              },
+              {
+                "category": "teen-18-1"
+              },
+              {
+                "category": "small-tits"
+              },
+              {
+                "category": "exclusive"
+              },
+              {
+                "category": "verified-amateurs"
+              },
+              {
+                "category": "solo-female"
+              },
+              {
+                "category": "female-orgasm"
+              }
+            ],
+            "segment": "straight"
+          }
+        ]
+      ],
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/videos/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/videos/items/anyOf/0",
+            "type": "object",
+            "title": "The first anyOf schema",
+            "description": "An explanation about the purpose of this instance.",
+            "default": {},
+            "examples": [
+              {
+                "duration": "1:49",
+                "views": 2451,
+                "video_id": "ph5d63ff6cbbb0d",
+                "rating": "94.7368",
+                "ratings": 19,
+                "title": "Guess who won the sensual handjob contest at amazing beach view",
+                "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5d63ff6cbbb0d",
+                "default_thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg",
+                "thumb": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg",
+                "publish_date": "2020-12-25 23:52:57",
+                "thumbs": [
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)2.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)3.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)4.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)5.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)6.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)7.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)8.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)10.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)11.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)13.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)14.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)15.jpg"
+                  },
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)16.jpg"
+                  }
+                ],
+                "tags": [
+                  {
+                    "tag_name": "masturbate"
+                  },
+                  {
+                    "tag_name": "big cock"
+                  },
+                  {
+                    "tag_name": "teenager"
+                  },
+                  {
+                    "tag_name": "young"
+                  },
+                  {
+                    "tag_name": "public"
+                  },
+                  {
+                    "tag_name": "outside"
+                  },
+                  {
+                    "tag_name": "sea"
+                  },
+                  {
+                    "tag_name": "beach"
+                  },
+                  {
+                    "tag_name": "mastrubation contest"
+                  },
+                  {
+                    "tag_name": "handjob"
+                  },
+                  {
+                    "tag_name": "public handjob"
+                  },
+                  {
+                    "tag_name": "orgasm"
+                  },
+                  {
+                    "tag_name": "cum"
+                  },
+                  {
+                    "tag_name": "teen"
+                  },
+                  {
+                    "tag_name": "couple"
+                  }
+                ],
+                "pornstars": [],
+                "categories": [
+                  {
+                    "category": "amateur"
+                  },
+                  {
+                    "category": "big-dick"
+                  },
+                  {
+                    "category": "blonde"
+                  },
+                  {
+                    "category": "handjob"
+                  },
+                  {
+                    "category": "masturbation"
+                  },
+                  {
+                    "category": "public"
+                  },
+                  {
+                    "category": "teen-18-1"
+                  },
+                  {
+                    "category": "exclusive"
+                  },
+                  {
+                    "category": "verified-amateurs"
+                  },
+                  {
+                    "category": "female-orgasm"
+                  }
+                ],
+                "segment": "straight"
+              }
+            ],
+            "required": [
+              "duration",
+              "views",
+              "video_id",
+              "rating",
+              "ratings",
+              "title",
+              "url",
+              "default_thumb",
+              "thumb",
+              "publish_date",
+              "thumbs",
+              "tags",
+              "pornstars",
+              "categories",
+              "segment"
+            ],
+            "properties": {
+              "duration": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/duration",
+                "type": "string",
+                "title": "The duration schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "1:49"
+                ]
+              },
+              "views": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/views",
+                "type": "integer",
+                "title": "The views schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": 0,
+                "examples": [
+                  2451
+                ]
+              },
+              "video_id": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/video_id",
+                "type": "string",
+                "title": "The video_id schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "ph5d63ff6cbbb0d"
+                ]
+              },
+              "rating": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/rating",
+                "type": "string",
+                "title": "The rating schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "94.7368"
+                ]
+              },
+              "ratings": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/ratings",
+                "type": "integer",
+                "title": "The ratings schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": 0,
+                "examples": [
+                  19
+                ]
+              },
+              "title": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/title",
+                "type": "string",
+                "title": "The title schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "Guess who won the sensual handjob contest at amazing beach view"
+                ]
+              },
+              "url": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/url",
+                "type": "string",
+                "title": "The url schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "https://rt.pornhub.com/view_video.php?viewkey=ph5d63ff6cbbb0d"
+                ]
+              },
+              "default_thumb": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/default_thumb",
+                "type": "string",
+                "title": "The default_thumb schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)12.jpg"
+                ]
+              },
+              "thumb": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/thumb",
+                "type": "string",
+                "title": "The thumb schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)9.jpg"
+                ]
+              },
+              "publish_date": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/publish_date",
+                "type": "string",
+                "title": "The publish_date schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "2020-12-25 23:52:57"
+                ]
+              },
+              "thumbs": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/thumbs",
+                "type": "array",
+                "title": "The thumbs schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": [],
+                "examples": [
+                  [
+                    {
+                      "size": "320x240",
+                      "width": "320",
+                      "height": "240",
+                      "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+                    },
+                    {
+                      "size": "320x240",
+                      "width": "320",
+                      "height": "240",
+                      "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)2.jpg"
+                    }
+                  ]
+                ],
+                "additionalItems": true,
+                "items": {
+                  "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items",
+                  "anyOf": [
+                    {
+                      "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items/anyOf/0",
+                      "type": "object",
+                      "title": "The first anyOf schema",
+                      "description": "An explanation about the purpose of this instance.",
+                      "default": {},
+                      "examples": [
+                        {
+                          "size": "320x240",
+                          "width": "320",
+                          "height": "240",
+                          "src": "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+                        }
+                      ],
+                      "required": [
+                        "size",
+                        "width",
+                        "height",
+                        "src"
+                      ],
+                      "properties": {
+                        "size": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items/anyOf/0/properties/size",
+                          "type": "string",
+                          "title": "The size schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "320x240"
+                          ]
+                        },
+                        "width": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items/anyOf/0/properties/width",
+                          "type": "string",
+                          "title": "The width schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "320"
+                          ]
+                        },
+                        "height": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items/anyOf/0/properties/height",
+                          "type": "string",
+                          "title": "The height schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "240"
+                          ]
+                        },
+                        "src": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/thumbs/items/anyOf/0/properties/src",
+                          "type": "string",
+                          "title": "The src schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "https://ei.phncdn.com/videos/201908/26/244250331/thumbs_5/(m=eaf8Ggaaaa)(mh=bJVhbxvngBm8W5yT)1.jpg"
+                          ]
+                        }
+                      },
+                      "additionalProperties": true
+                    }
+                  ]
+                }
+              },
+              "tags": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/tags",
+                "type": "array",
+                "title": "The tags schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": [],
+                "examples": [
+                  [
+                    {
+                      "tag_name": "masturbate"
+                    },
+                    {
+                      "tag_name": "big cock"
+                    }
+                  ]
+                ],
+                "additionalItems": true,
+                "items": {
+                  "$id": "#/properties/videos/items/anyOf/0/properties/tags/items",
+                  "anyOf": [
+                    {
+                      "$id": "#/properties/videos/items/anyOf/0/properties/tags/items/anyOf/0",
+                      "type": "object",
+                      "title": "The first anyOf schema",
+                      "description": "An explanation about the purpose of this instance.",
+                      "default": {},
+                      "examples": [
+                        {
+                          "tag_name": "masturbate"
+                        }
+                      ],
+                      "required": [
+                        "tag_name"
+                      ],
+                      "properties": {
+                        "tag_name": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/tags/items/anyOf/0/properties/tag_name",
+                          "type": "string",
+                          "title": "The tag_name schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "masturbate"
+                          ]
+                        }
+                      },
+                      "additionalProperties": true
+                    }
+                  ]
+                }
+              },
+              "pornstars": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/pornstars",
+                "type": "array",
+                "title": "The pornstars schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": [],
+                "examples": [
+                  []
+                ],
+                "additionalItems": true,
+                "items": {
+                  "$id": "#/properties/videos/items/anyOf/0/properties/pornstars/items"
+                }
+              },
+              "categories": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/categories",
+                "type": "array",
+                "title": "The categories schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": [],
+                "examples": [
+                  [
+                    {
+                      "category": "amateur"
+                    },
+                    {
+                      "category": "big-dick"
+                    }
+                  ]
+                ],
+                "additionalItems": true,
+                "items": {
+                  "$id": "#/properties/videos/items/anyOf/0/properties/categories/items",
+                  "anyOf": [
+                    {
+                      "$id": "#/properties/videos/items/anyOf/0/properties/categories/items/anyOf/0",
+                      "type": "object",
+                      "title": "The first anyOf schema",
+                      "description": "An explanation about the purpose of this instance.",
+                      "default": {},
+                      "examples": [
+                        {
+                          "category": "amateur"
+                        }
+                      ],
+                      "required": [
+                        "category"
+                      ],
+                      "properties": {
+                        "category": {
+                          "$id": "#/properties/videos/items/anyOf/0/properties/categories/items/anyOf/0/properties/category",
+                          "type": "string",
+                          "title": "The category schema",
+                          "description": "An explanation about the purpose of this instance.",
+                          "default": "",
+                          "examples": [
+                            "amateur"
+                          ]
+                        }
+                      },
+                      "additionalProperties": true
+                    }
+                  ]
+                }
+              },
+              "segment": {
+                "$id": "#/properties/videos/items/anyOf/0/properties/segment",
+                "type": "string",
+                "title": "The segment schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": "",
+                "examples": [
+                  "straight"
+                ]
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

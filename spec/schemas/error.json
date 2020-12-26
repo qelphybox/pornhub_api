@@ -1,0 +1,53 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "code": "2002",
+      "message": "No video with this ID.",
+      "example": "https://rt.pornhub.com/webmasters/tags?list=a"
+    }
+  ],
+  "required": [
+    "code",
+    "message",
+    "example"
+  ],
+  "properties": {
+    "code": {
+      "id": "#/properties/code",
+      "type": "string",
+      "title": "The code schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "2002"
+      ]
+    },
+    "message": {
+      "id": "#/properties/message",
+      "type": "string",
+      "title": "The message schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "No video with this ID."
+      ]
+    },
+    "example": {
+      "id": "#/properties/example",
+      "type": "string",
+      "title": "The example schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": "",
+      "examples": [
+        "https://rt.pornhub.com/webmasters/tags?list=a"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

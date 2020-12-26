@@ -1,0 +1,748 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "id": "http://example.com/example.json",
+  "type": "object",
+  "title": "The root schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "default": {},
+  "examples": [
+    {
+      "video": {
+        "duration": "18:38",
+        "views": 1198697,
+        "video_id": "ph5fbf2d80025f9",
+        "rating": "86.0356",
+        "ratings": 6846,
+        "title": "Big Ass Latina gets a Rough Anal Fuck after teasing boyfriend all day",
+        "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5fbf2d80025f9",
+        "default_thumb": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)12.jpg",
+        "thumb": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)15.jpg",
+        "publish_date": "2020-12-24 04:00:31",
+        "thumbs": [
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)1.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)2.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)3.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)4.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)5.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)6.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)7.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)8.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)9.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)10.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)11.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)12.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)13.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)14.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)15.jpg"
+          },
+          {
+            "size": "320x240",
+            "width": "320",
+            "height": "240",
+            "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)16.jpg"
+          }
+        ],
+        "tags": [
+          {
+            "tag_name": "missionary anal fuck"
+          },
+          {
+            "tag_name": "ass to pussy"
+          },
+          {
+            "tag_name": "big ass brunette"
+          },
+          {
+            "tag_name": "big tits milf"
+          },
+          {
+            "tag_name": "thick ass latina"
+          },
+          {
+            "tag_name": "huge cumshot"
+          },
+          {
+            "tag_name": "big dick tight ass"
+          },
+          {
+            "tag_name": "anal doggystyle"
+          },
+          {
+            "tag_name": "hot sexy teasing"
+          },
+          {
+            "tag_name": "sexy feet worship"
+          },
+          {
+            "tag_name": "hot amateur anal"
+          },
+          {
+            "tag_name": "real amateur wife"
+          },
+          {
+            "tag_name": "best blowjob ever"
+          },
+          {
+            "tag_name": "real public sex"
+          },
+          {
+            "tag_name": "rough anal sex"
+          },
+          {
+            "tag_name": "hard fast pounding"
+          }
+        ],
+        "pornstars": [],
+        "categories": [
+          {
+            "category": "amateur"
+          },
+          {
+            "category": "big-ass"
+          },
+          {
+            "category": "brunette"
+          },
+          {
+            "category": "public"
+          },
+          {
+            "category": "milf"
+          },
+          {
+            "category": "anal"
+          },
+          {
+            "category": "rough-sex"
+          },
+          {
+            "category": "60fps-1"
+          },
+          {
+            "category": "verified-amateurs"
+          }
+        ],
+        "segment": "straight"
+      }
+    }
+  ],
+  "required": [
+    "video"
+  ],
+  "properties": {
+    "video": {
+      "id": "#/properties/video",
+      "type": "object",
+      "title": "The video schema",
+      "description": "An explanation about the purpose of this instance.",
+      "default": {},
+      "examples": [
+        {
+          "duration": "18:38",
+          "views": 1198697,
+          "video_id": "ph5fbf2d80025f9",
+          "rating": "86.0356",
+          "ratings": 6846,
+          "title": "Big Ass Latina gets a Rough Anal Fuck after teasing boyfriend all day",
+          "url": "https://rt.pornhub.com/view_video.php?viewkey=ph5fbf2d80025f9",
+          "default_thumb": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)12.jpg",
+          "thumb": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)15.jpg",
+          "publish_date": "2020-12-24 04:00:31",
+          "thumbs": [
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)1.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)2.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)3.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)4.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)5.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)6.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)7.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)8.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)9.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)10.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)11.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)12.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)13.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)14.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)15.jpg"
+            },
+            {
+              "size": "320x240",
+              "width": "320",
+              "height": "240",
+              "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)16.jpg"
+            }
+          ],
+          "tags": [
+            {
+              "tag_name": "missionary anal fuck"
+            },
+            {
+              "tag_name": "ass to pussy"
+            },
+            {
+              "tag_name": "big ass brunette"
+            },
+            {
+              "tag_name": "big tits milf"
+            },
+            {
+              "tag_name": "thick ass latina"
+            },
+            {
+              "tag_name": "huge cumshot"
+            },
+            {
+              "tag_name": "big dick tight ass"
+            },
+            {
+              "tag_name": "anal doggystyle"
+            },
+            {
+              "tag_name": "hot sexy teasing"
+            },
+            {
+              "tag_name": "sexy feet worship"
+            },
+            {
+              "tag_name": "hot amateur anal"
+            },
+            {
+              "tag_name": "real amateur wife"
+            },
+            {
+              "tag_name": "best blowjob ever"
+            },
+            {
+              "tag_name": "real public sex"
+            },
+            {
+              "tag_name": "rough anal sex"
+            },
+            {
+              "tag_name": "hard fast pounding"
+            }
+          ],
+          "pornstars": [],
+          "categories": [
+            {
+              "category": "amateur"
+            },
+            {
+              "category": "big-ass"
+            },
+            {
+              "category": "brunette"
+            },
+            {
+              "category": "public"
+            },
+            {
+              "category": "milf"
+            },
+            {
+              "category": "anal"
+            },
+            {
+              "category": "rough-sex"
+            },
+            {
+              "category": "60fps-1"
+            },
+            {
+              "category": "verified-amateurs"
+            }
+          ],
+          "segment": "straight"
+        }
+      ],
+      "required": [
+        "duration",
+        "views",
+        "video_id",
+        "rating",
+        "ratings",
+        "title",
+        "url",
+        "default_thumb",
+        "thumb",
+        "publish_date",
+        "thumbs",
+        "tags",
+        "pornstars",
+        "categories",
+        "segment"
+      ],
+      "properties": {
+        "duration": {
+          "id": "#/properties/video/properties/duration",
+          "type": "string",
+          "title": "The duration schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "18:38"
+          ]
+        },
+        "views": {
+          "id": "#/properties/video/properties/views",
+          "type": "integer",
+          "title": "The views schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            1198697
+          ]
+        },
+        "video_id": {
+          "id": "#/properties/video/properties/video_id",
+          "type": "string",
+          "title": "The video_id schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "ph5fbf2d80025f9"
+          ]
+        },
+        "rating": {
+          "id": "#/properties/video/properties/rating",
+          "type": "string",
+          "title": "The rating schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "86.0356"
+          ]
+        },
+        "ratings": {
+          "id": "#/properties/video/properties/ratings",
+          "type": "integer",
+          "title": "The ratings schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": 0,
+          "examples": [
+            6846
+          ]
+        },
+        "title": {
+          "id": "#/properties/video/properties/title",
+          "type": "string",
+          "title": "The title schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "Big Ass Latina gets a Rough Anal Fuck after teasing boyfriend all day"
+          ]
+        },
+        "url": {
+          "id": "#/properties/video/properties/url",
+          "type": "string",
+          "title": "The url schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://rt.pornhub.com/view_video.php?viewkey=ph5fbf2d80025f9"
+          ]
+        },
+        "default_thumb": {
+          "id": "#/properties/video/properties/default_thumb",
+          "type": "string",
+          "title": "The default_thumb schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)12.jpg"
+          ]
+        },
+        "thumb": {
+          "id": "#/properties/video/properties/thumb",
+          "type": "string",
+          "title": "The thumb schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)15.jpg"
+          ]
+        },
+        "publish_date": {
+          "id": "#/properties/video/properties/publish_date",
+          "type": "string",
+          "title": "The publish_date schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "2020-12-24 04:00:31"
+          ]
+        },
+        "thumbs": {
+          "id": "#/properties/video/properties/thumbs",
+          "type": "array",
+          "title": "The thumbs schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": [],
+          "examples": [
+            [
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)1.jpg"
+              },
+              {
+                "size": "320x240",
+                "width": "320",
+                "height": "240",
+                "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)2.jpg"
+              }
+            ]
+          ],
+          "additionalItems": true,
+          "items": {
+            "id": "#/properties/video/properties/thumbs/items",
+            "anyOf": [
+              {
+                "id": "#/properties/video/properties/thumbs/items/anyOf/0",
+                "type": "object",
+                "title": "The first anyOf schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                  {
+                    "size": "320x240",
+                    "width": "320",
+                    "height": "240",
+                    "src": "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)1.jpg"
+                  }
+                ],
+                "required": [
+                  "size",
+                  "width",
+                  "height",
+                  "src"
+                ],
+                "properties": {
+                  "size": {
+                    "id": "#/properties/video/properties/thumbs/items/anyOf/0/properties/size",
+                    "type": "string",
+                    "title": "The size schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "320x240"
+                    ]
+                  },
+                  "width": {
+                    "id": "#/properties/video/properties/thumbs/items/anyOf/0/properties/width",
+                    "type": "string",
+                    "title": "The width schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "320"
+                    ]
+                  },
+                  "height": {
+                    "id": "#/properties/video/properties/thumbs/items/anyOf/0/properties/height",
+                    "type": "string",
+                    "title": "The height schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "240"
+                    ]
+                  },
+                  "src": {
+                    "id": "#/properties/video/properties/thumbs/items/anyOf/0/properties/src",
+                    "type": "string",
+                    "title": "The src schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "https://ci.phncdn.com/videos/202011/26/373899402/thumbs_5/(m=eaf8Ggaaaa)(mh=XkMYL-AVldL-v6_C)1.jpg"
+                    ]
+                  }
+                },
+                "additionalProperties": true
+              }
+            ]
+          }
+        },
+        "tags": {
+          "id": "#/properties/video/properties/tags",
+          "type": "array",
+          "title": "The tags schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": [],
+          "examples": [
+            [
+              {
+                "tag_name": "missionary anal fuck"
+              },
+              {
+                "tag_name": "ass to pussy"
+              }
+            ]
+          ],
+          "additionalItems": true,
+          "items": {
+            "id": "#/properties/video/properties/tags/items",
+            "anyOf": [
+              {
+                "id": "#/properties/video/properties/tags/items/anyOf/0",
+                "type": "object",
+                "title": "The first anyOf schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                  {
+                    "tag_name": "missionary anal fuck"
+                  }
+                ],
+                "required": [
+                  "tag_name"
+                ],
+                "properties": {
+                  "tag_name": {
+                    "id": "#/properties/video/properties/tags/items/anyOf/0/properties/tag_name",
+                    "type": "string",
+                    "title": "The tag_name schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "missionary anal fuck"
+                    ]
+                  }
+                },
+                "additionalProperties": true
+              }
+            ]
+          }
+        },
+        "pornstars": {
+          "id": "#/properties/video/properties/pornstars",
+          "type": "array",
+          "title": "The pornstars schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": [],
+          "examples": [
+            []
+          ],
+          "additionalItems": true,
+          "items": {
+            "id": "#/properties/video/properties/pornstars/items"
+          }
+        },
+        "categories": {
+          "id": "#/properties/video/properties/categories",
+          "type": "array",
+          "title": "The categories schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": [],
+          "examples": [
+            [
+              {
+                "category": "amateur"
+              },
+              {
+                "category": "big-ass"
+              }
+            ]
+          ],
+          "additionalItems": true,
+          "items": {
+            "id": "#/properties/video/properties/categories/items",
+            "anyOf": [
+              {
+                "id": "#/properties/video/properties/categories/items/anyOf/0",
+                "type": "object",
+                "title": "The first anyOf schema",
+                "description": "An explanation about the purpose of this instance.",
+                "default": {},
+                "examples": [
+                  {
+                    "category": "amateur"
+                  }
+                ],
+                "required": [
+                  "category"
+                ],
+                "properties": {
+                  "category": {
+                    "id": "#/properties/video/properties/categories/items/anyOf/0/properties/category",
+                    "type": "string",
+                    "title": "The category schema",
+                    "description": "An explanation about the purpose of this instance.",
+                    "default": "",
+                    "examples": [
+                      "amateur"
+                    ]
+                  }
+                },
+                "additionalProperties": true
+              }
+            ]
+          }
+        },
+        "segment": {
+          "id": "#/properties/video/properties/segment",
+          "type": "string",
+          "title": "The segment schema",
+          "description": "An explanation about the purpose of this instance.",
+          "default": "",
+          "examples": [
+            "straight"
+          ]
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

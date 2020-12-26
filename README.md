@@ -4,6 +4,8 @@
 
 Simple Pornhub API client
 
+Documentation: https://rubydoc.info/gems/pornhub_api/PornhubApi
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -23,6 +25,8 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
+require 'pornhub_api'
+
 PornhubApi.search
 ```
 

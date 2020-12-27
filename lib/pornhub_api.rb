@@ -123,15 +123,15 @@ module PornhubApi
     #     "ratings": 0,
     #     "title": "Dick stroke",
     #     "url": "https://www.pornhub.com/view_video.php?viewkey=ph5f59beb3df90a",
-    #     "default_thumb": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)(mh=S0b3ophAz8vJXP8c)12.jpg",
-    #     "thumb": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)(mh=S0b3ophAz8vJXP8c)13.jpg",
+    #     "default_thumb": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)12.jpg",
+    #     "thumb": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)13.jpg",
     #     "publish_date": "2020-12-26 22:44:47",
     #     "thumbs": [
     #       {
     #         "size": "320x240",
     #         "width": "320",
     #         "height": "240",
-    #         "src": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)(mh=S0b3ophAz8vJXP8c)15.jpg"
+    #         "src": "https://ei.phncdn.com/videos/202009/10/350564541/original/(m=eaf8Ggaaaa)15.jpg"
     #       }
     #     ],
     #     "tags": [

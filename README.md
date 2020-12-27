@@ -4,26 +4,6 @@
 
 Simple Pornhub API client
 
-Documentation: https://rubydoc.info/gems/pornhub_api/PornhubApi
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'pornhub_api'
-```
-
-And then execute:
-
-    $ bundle install
-
-Or install it yourself as:
-
-    $ gem install pornhub_api
-
-## Usage
-
 Please check [documentation](https://rubydoc.info/gems/pornhub_api/PornhubApi) and [schemas](spec/schemas) to explore
 possible responses
 
@@ -46,6 +26,21 @@ PornhubApi.categories
 PornhubApi.tags(list: 'a')
 ```
 
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'pornhub_api'
+```
+
+And then execute:
+
+    $ bundle install
+
+Or install it yourself as:
+
+    $ gem install pornhub_api
 
 ## Development
 
